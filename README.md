@@ -68,7 +68,6 @@ backward breakage
 
    Notice: Both version work. However, the new parameter has to be "managed".
 
-
 ## Alternatives
 
 1. A client of the API can use [Monkey Patching](https://en.wikipedia.org/wiki/Monkey_patch) to adapt
