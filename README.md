@@ -19,6 +19,7 @@ backward breakage
 ## Proposal
 
 1. Use `*args` and `**kwargs` as a part of every API method / function signature.
+    1. The [Robustness principle](https://en.wikipedia.org/wiki/Robustness_principle).
 
 ## Example
 
