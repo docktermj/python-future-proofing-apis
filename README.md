@@ -67,3 +67,10 @@ backward breakage
     ```
 
    Notice: Both version work. However, the new parameter has to be "managed".
+
+
+## Alternatives
+
+1. A client of the API can use [Monkey Patching](https://en.wikipedia.org/wiki/Monkey_patch) to adapt
+   the API as seen in
+   "[When to use them?](http://book.pythontips.com/en/latest/args_and_kwargs.html#when-to-use-them)."
